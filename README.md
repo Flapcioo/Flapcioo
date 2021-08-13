@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Flapcioo
+- 👀 I’m interested in JavaScript
+- 🌱 I’m currently learning JavaScript
+- 📫 Discord Flapcioo#0047
